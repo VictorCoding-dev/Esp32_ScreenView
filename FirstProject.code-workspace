@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/JavaVS/FirstProject"
+		},
+		{
+			"name": "Esp32_dht11",
+			"path": "."
+		},
+		{
+			"path": "../../../../../Desktop/FaceRecognition.py"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"files.associations": {
+			"cstddef": "cpp"
+		}
+	}
+}
